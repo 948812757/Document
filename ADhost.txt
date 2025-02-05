@@ -1,0 +1,78 @@
+# Title: StevenBlack/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 05 February 2025 02:17:13 (UTC)
+# Number of unique domains: 121,374
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Title: Hosts contributed by Steven Black
+# http://stevenblack.com
+
+0.0.0.0 api-access.pangolin-sdk-toutiao.com
+0.0.0.0 sdk.beizi.biz
+0.0.0.0 janapi.jd.com
+0.0.0.0 xlog.jd.com
+0.0.0.0 dspsdk.pinduoduo.com
+0.0.0.0 p3-sign.douyinpic.com
+0.0.0.0 api-access.pangolin-sdk-toutiao-b.com
+0.0.0.0 sf3-fe-tos.pglstatp-toutiao.com
+0.0.0.0 p26-be-pack-sign.pglstatp-toutiao.com
+0.0.0.0 api-access.pangolin-sdk-toutiao1.com
+0.0.0.0 gromore.pangolin-sdk-toutiao.com
+0.0.0.0 sf3-be-pack.pglstatp-toutiao.com
+0.0.0.0 p3-be-pack-sign.pglstatp-toutiao.com
+0.0.0.0 c3.gdt.qq.com
+0.0.0.0 www.kaitiantech.com
+0.0.0.0 open.e.kuaishou.cn
+0.0.0.0 adsmind.ugdtimg.com
+0.0.0.0 hmma.baidu.com
+0.0.0.0 c2.gdt.qq.com
+0.0.0.0 bes-mtj.baidu.com
+0.0.0.0 h.trace.qq.com
+0.0.0.0 snowflake.qq.com
+0.0.0.0 guid.tpns.tencent.com
+0.0.0.0 v2.gdt.qq.com
+0.0.0.0 v3.gdt.qq.com
+0.0.0.0 pgdt.ugdtimg.com
+0.0.0.0 mi.gdt.qq.com
+0.0.0.0 v2mi.gdt.qq.com
+
+# End yoyo.org
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
